@@ -1,0 +1,20 @@
+* {padding: 0;
+box-sizing: border-box;}
+
+.cookieContainer {
+    background: linear-gradient(260deg,#9b6c50 0%, #4f2626 100%);
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    width: 20rem;
+    height: 10rem;
+    border-radius: 1.2rem;
+    padding:1rem;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.text {color:white;}

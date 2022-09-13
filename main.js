@@ -1,0 +1,1 @@
+gsap.fromTo('.text',{opacity:0}, {opacity:1 , duration: 2})
