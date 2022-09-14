@@ -1,5 +1,6 @@
 * {padding: 0;
-box-sizing: border-box;}
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;}
 
 .cookieContainer {
     background: linear-gradient(260deg,#9b6c50 0%, #4f2626 100%);
@@ -18,3 +19,4 @@ box-sizing: border-box;}
 }
 
 .text {color:white;}
+button{background:red; color: white;}
